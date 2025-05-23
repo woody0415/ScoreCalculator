@@ -1,2 +1,2 @@
 # ScoreCalculator
-Applicable to Pei-ying junior high school score calculation
+Applicable to Pei Ying junior high school score calculation
